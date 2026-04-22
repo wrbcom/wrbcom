@@ -6,6 +6,5 @@
 - 💻 I'm very interested in **backend development**! Currently learning **Java**, and using **C** to build some small tools to help myself.
 - 🛠️ **Skills:**  
   - C
-  - Python
 
 🌱 Always keep learning and coding!
